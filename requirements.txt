@@ -1,0 +1,4 @@
+ffmpeg==6.1.1
+ffprobe==6.1.1
+pygame==2.6.1
+pyvidplayer2==0.9.37
